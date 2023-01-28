@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-moourad&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-moourad" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-moourad" alt="ahmed-moourad" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/ahmedmourad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahmedmourad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmedmoourad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedmoourad" height="30" width="40" /></a>
 </p>
 
