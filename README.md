@@ -3,24 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-moourad&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-moourad" /> </p>
 
-- 🔭 I’m currently working on [some project](somelink.com)
-
-- 🌱 I’m currently learning **DevOps Tools**
-
-- 👯 I’m looking to collaborate on [some project](somelink.com)
-
-- 🤝 I’m looking for help with [some project](somelink.com)
-
-- 👨‍💻 All of my projects are available at [some-portfolio.com](some-portfolio.com)
-
-- 📝 I regularly write articles on [some-blog.com](some-blog.com)
-
-- 📫 How to reach me **somemail@some-where.com**
-
-- 📄 Know about my experiences [some-link-to-my-cv@hire-me.com](some-link-to-my-cv@hire-me.com)
-
-- ⚡ Fun fact **I think I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ahmedmourad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahmedmourad" height="30" width="40" /></a>
